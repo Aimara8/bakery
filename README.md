@@ -28,24 +28,24 @@ El sitio muestra productos de panadería y repostería de manera atractiva y res
 
 1. Clona el repositorio:
 
-  ```bash
+```bash
   git clone https://github.com/Aimara8/bakery.git
-  ```
+```
 
 2. Entra a la carpeta del proyecto:
 
-  ```bash
+```bash
   cd nombre-del-repo
-  ```
+```
 
 3. Instala las dependencias:
 
-   ```bash
-   npm install
-   ```
+```bash
+  npm install
+```
 
 4. Inicia el servidor de desarrollo:
 
-   ```bash
-   npm run dev
-   ```
+```bash
+  npm run dev
+```
