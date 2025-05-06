@@ -11,7 +11,6 @@ El sitio muestra productos de panadería y repostería de manera atractiva y res
 - 📄 **Generador de PDF** integrado para lista de productos
 - 🚀 **Rendimiento optimizado** con Vite
 - ✨ **Efectos visuales** con Tailwind CSS
-- 🧭 **Navegación inteligente** con scroll suave
 
 ---
 
