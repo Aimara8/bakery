@@ -15,7 +15,7 @@ function App() {
       <NavBar />
       <Hero />
       <Bread />
-      <Parallax />
+      {/* <Parallax /> */}
       <Confectionery />
       <History />
       <Contact/>
